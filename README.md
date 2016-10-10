@@ -13,16 +13,61 @@ Twitter https://twitter.com/prroocom
 
 
 
-
 Portfolio  PR ROO:
+
+PORTFOLIO :
+http://prroo.com/portfolio/
+
 
 Sports Manager- Professionnels et managers du sport  
 http://sportsmanager.fr/
+
 
 Eshop - EGERIE PARIS
 http://egerieparis.com/http://egerieparis.com/
 http://blod.egerieparis.com/
 http://egerieparis.blogspot.fr/
+
+
+
+Sites: 
+
+WP EX:  http://sitetest.prroo.com/
+
+WP Clients :
+
+http://sportsmanager.fr/
+
+http://yarprazdnik.com/
+
+
+
+DRUPAL EX: http://sitetest3.prroo.com/
+
+DRUPAL Clients :
+
+http://znamensk.info/
+
+http://zalog56.ru/
+
+
+
+Partenaires :
+
+http://www.ipnet.fr/
+
+http://www.mlvdomiciliation.com/
+
+
+http://leimstar.ru/
+
+http://oren-vesta.ru/
+
+
+
+
+
+
 
 
 
